@@ -1,4 +1,4 @@
-# OOP-seru
-Academy Bro's Website
+# Tamagotchi
+Tamagotchi project
 
-File nya donlot duaduanya trus file scss nya masukin file utama elearning-html-template.
+Projek semester 1 Tamagotchi
